@@ -58,5 +58,7 @@ MAP-NLP/
 ├─ src/
 │  ├─ data_loader.py
 │  ├─ model.py
-│  └─ train.py
-└─ README.md
+│  └─ utils.py
+├── requirements.txt
+├── README.md
+└── .gitignore
