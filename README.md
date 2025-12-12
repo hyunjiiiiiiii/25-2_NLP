@@ -57,8 +57,8 @@ MAP-NLP/
 │  └─ 02_baseline_model.ipynb
 ├─ src/
 │  ├─ data_loader.py
-│  ├─ model.py
-│  └─ utils.py
+│  ├─ preprocessing.py
+│  └─ model.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
