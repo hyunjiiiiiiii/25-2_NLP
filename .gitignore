@@ -17,3 +17,21 @@ __pycache__/
 # checkpoints
 checkpoints/
 models/
+
+# HuggingFace Trainer outputs
+results/
+results_*/
+checkpoint-*/
+
+# PyTorch / Transformers
+*.bin
+*.pt
+*.safetensors
+*.ckpt
+
+# Cache
+__pycache__/
+.ipynb_checkpoints/
+
+# maxOS
+.DS_Store
